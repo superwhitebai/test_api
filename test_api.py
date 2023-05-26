@@ -5,4 +5,4 @@ def testprint1():
 
 
 if __name__ == '__main__':
-    testprint1('2211')
+    testprint1('2211122')
